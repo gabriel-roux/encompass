@@ -1,0 +1,71 @@
+.depoimentos {
+    margin-top: 150px;
+    width: 100%;
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.depoimentos .depoimento {
+    margin-top: 80px;
+    margin-left: -250px;
+    width: 550px;
+    height: 180px;
+    border-radius: 8px;
+    background: linear-gradient(-90deg, #2b113d, #050507);
+
+}
+
+.depoimentos .depoimento2 {
+    margin-top: 40px;
+    margin-left: 250px;
+    width: 550px;
+    height: 205px;
+    border-radius: 8px;
+    background: linear-gradient(90deg, #2b113d, #050507);
+
+}
+
+@media screen and ( max-width: 767px) {
+    .depoimentos {
+        margin-top: 150px;
+        width: 90%;
+        display: flex;
+        flex: 1;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .depoimentos .depoimento {
+        margin-top: 40px;
+        width: 105%;
+        height: 180px;
+        border-radius: 8px;
+        margin-left: 25px;
+        background: linear-gradient(-90deg, #2b113d, #050507);
+    
+    }
+    
+    .depoimentos .depoimento2 {
+        margin-top: 40px;
+        width: 105%;
+        height: 200px;
+        border-radius: 8px;
+        margin-left: 25px;
+        background: linear-gradient(-90deg, #2b113d, #050507);
+    
+    }
+
+    .depoimentos .depoimento p {
+        margin-left: 15px !important;
+        width: 95% !important;
+    }
+
+    .depoimentos .depoimento2 p {
+        margin-left: 15px !important;
+        width: 95% !important;
+    }
+}

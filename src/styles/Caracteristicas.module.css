@@ -1,0 +1,63 @@
+
+.caracteristicas {
+    width: 100%;
+}
+
+.caracteristicas .imagem1 {
+    animation: betweenSizeImage 4s linear infinite;
+}
+
+@keyframes betweenSizeImage {
+    0% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(0.7);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+
+.caracteristicas .box {
+    width: 345px;
+    height: 120px;
+    border-radius: 8px;
+    background: linear-gradient(-90deg, #2b113dce, #050507);
+}
+
+@media screen and ( max-width: 767px) {
+    .caracteristicas .imagem1 {
+        display: none;
+    }
+
+    .caracteristicas .box {
+        width: 345px;
+        height: 120px;
+        border-radius: 8px;
+        position: static !important;
+        margin: 20px 0px !important;
+        margin-top: 50px !important;
+        background: linear-gradient(-90deg, #2b113dce, #050507);
+    }
+
+    .caracteristicas .box2 {
+        width: 345px;
+        height: 120px;
+        border-radius: 8px;
+        position: static !important;
+        margin: 20px 0px !important;
+        margin-top: 50px !important;
+ 
+        background: linear-gradient(-90deg, #2b113dce, #050507);
+    }
+}
+
+
+.caracteristicas .box2 {
+    width: 345px;
+    height: 120px;
+    border-radius: 8px;
+    background: linear-gradient(90deg, #2b113dce, #050507);
+}
+

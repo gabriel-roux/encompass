@@ -1,0 +1,33 @@
+
+.garantirAcesso {
+    display: inline;
+    position: relative;
+    top: 15px;
+    font-family: 'Be Vietnam Pro', sans-serif !important;
+    font-weight: 600;
+    font-size: 16px;
+    padding: 11px 55px;
+    color: #000;
+    text-decoration: none;
+    border-radius: 35px;
+    background: linear-gradient(90deg, #8D37FC, #BD00FF);
+    background-size: 300% 300%;
+    background-position: 0 50%;
+    box-shadow: 0px 4px 25px 5px #8d37fc6e;
+    transition: all 800ms ease;
+  }
+  
+  .garantirAcesso:hover {
+    background-position: 100% 50%;
+    cursor: pointer;
+    color: #000 !important;
+  }
+
+  @media screen and (max-width: 767px) {
+    .image {
+      margin-left: 0px !important;
+      width: 365px !important;
+      height: 769px !important;
+      margin-top: 80px !important;
+    }
+  }

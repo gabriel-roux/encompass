@@ -1,0 +1,56 @@
+.rodape {
+    margin-top: 100px;
+    padding-bottom: 100px;
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.rodape .title {
+    font-size: 26px;
+    font-weight: 900;
+    font-family: 'Be Vietnam Pro', sans-serif !important;
+    -webkit-text-fill-color:  transparent;
+    animation: textAnim 3s ease infinite;
+    background: linear-gradient(90deg,#991fec,#BD00FF);;
+    -webkit-background-clip: text;
+    background-size: 300% 300%;
+}
+
+@keyframes textAnim {
+    0% {
+      background-position: 50% 100%;
+    }
+  
+    50% {
+      background-position: 100% 100%;
+    }
+  
+    100% {
+      background-position: 50% 50%;
+    }
+  
+  }
+
+.rodape .rightsReserved {
+    font-family: 'Be Vietnam Pro', sans-serif !important;
+    font-size: 16px;
+    color: #999;
+    text-align: center;
+}
+
+.rodape .aboutUs {
+    color: #999;
+    margin-top: -15px;
+}
+
+.rodape .developedBy {
+    color: #999;
+}
+
+.rodape .aboutUs a {
+    color: #999;
+
+}
