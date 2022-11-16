@@ -23,7 +23,7 @@ export function Enzo() {
                                 Clique abaixo e garanta o seu acesso vitalício a um dos melhores Conteúdos que te faz faturar milhões apenas com a internet, em qualquer lugar do Brasil.
                             </p>
 
-                            <a className={styles.garantirAcesso}>
+                            <a href='https://pay.kiwify.com.br/S240YLh' className={styles.garantirAcesso}>
                                 GARANTIR MEU ACESSO
                             </a>
                         </div>

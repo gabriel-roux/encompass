@@ -27,7 +27,7 @@ export function Caracteristicas() {
                             Além de todo conteúdo salvo que você poderá assistir imediatamente, também vai ter acesso a uma área de membro única, direito a promover produtos premium, arquivos exclusivos e muito mais...
                         </p>
 
-                        <a>
+                        <a href='https://pay.kiwify.com.br/S240YLh'>
                             QUERO MEU ACESSO
                         </a>
                     </Col>

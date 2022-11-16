@@ -19,7 +19,7 @@ export function PLR() {
                             O método PDZ é considerado o guia digital mais recomendado do mercado: Alta qualidade, segurança e atendimento.
                         </p>
 
-                        <a href=''>CONHECER MAIS</a>
+                        <a href='https://pay.kiwify.com.br/S240YLh'>CONHECER MAIS</a>
                     </Col>
 
                     <Col>
