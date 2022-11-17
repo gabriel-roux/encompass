@@ -56,7 +56,7 @@ header ul li:hover {
   font-size: 56px;
   font-weight: 700;
   margin-left: 70px;
-  width: 12ch;
+  width: 12ch !important;
   line-height: 1;
   color: #fff;
 }
