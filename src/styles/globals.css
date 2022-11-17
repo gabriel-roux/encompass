@@ -56,7 +56,7 @@ header ul li:hover {
   font-size: 56px;
   font-weight: 700;
   margin-left: 70px;
-  width: 12ch !important;
+  width: 12ch;
   line-height: 1;
   color: #fff;
 }
@@ -337,7 +337,7 @@ header ul li:hover {
     font-size: 36px;
     font-weight: 700;
     margin-left: 45px;
-    width: 12ch;
+    width: 12ch !important;
     line-height: 1;
     color: #fff;
   }
@@ -512,7 +512,7 @@ header ul li:hover {
     margin-left: 66px !important;
     font-size: 11px !important;
     margin-top: -35px !important;
-    width: 42ch !important;
+    width: 39ch !important;
   }
 
   .plataforma {
