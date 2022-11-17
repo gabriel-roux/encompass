@@ -10,7 +10,7 @@ export function Conteudo() {
             <Container>
                 <Row>
                     <Col sm={7}>
-                        <h1 className={'titulo'} style={{ textAlign: 'left', fontSize: '52px', margin: '50px auto 10px', width: '100%' }}>
+                        <h1 className={'titulo titulo2'} style={{ textAlign: 'left', fontSize: '52px', margin: '50px auto 10px', width: '100%' }}>
                             Veja todos nossos Conteúdos e <span>muito mais!</span>
                         </h1>
 
