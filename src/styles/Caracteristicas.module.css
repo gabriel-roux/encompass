@@ -32,7 +32,7 @@
     }
 
     .caracteristicas .box {
-        width: 98%;
+        width: 98% !important;
         height: 120px;
         border-radius: 8px;
         position: static !important;
@@ -42,7 +42,7 @@
     }
 
     .caracteristicas .box2 {
-        width: 95%;
+        width: 98% !important;
         height: 120px;
         border-radius: 8px;
         position: static !important;
