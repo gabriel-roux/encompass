@@ -26,7 +26,7 @@
   @media screen and (max-width: 767px) {
     .image {
       margin-left: 0px !important;
-      width: 365px !important;
+      width: 99% !important;
       height: 769px !important;
       margin-top: 80px !important;
     }
