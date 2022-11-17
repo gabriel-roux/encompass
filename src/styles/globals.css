@@ -337,21 +337,10 @@ header ul li:hover {
     font-size: 36px;
     font-weight: 700;
     margin-left: 45px;
-    width: 12ch !important;
+    width: 100% !important;
     line-height: 1;
     color: #fff;
   }
-
-  .titulo2 {
-    font-family: 'Be Vietnam Pro', sans-serif !important;
-    font-size: 36px;
-    font-weight: 700;
-    margin-left: 45px;
-    width: -1ch !important;
-    line-height: 1;
-    color: #fff;
-  }
-  
   
   .titulo span {
     font-weight: 700;
